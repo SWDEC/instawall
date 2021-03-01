@@ -1,6 +1,3 @@
-// only for dev, browsers have this module!
-// const fetch = require('node-fetch');
-
 var hashtag = 'paxanders';
 var url = 'https://www.instagram.com/explore/tags/' + hashtag + '/?__a=1';
 
